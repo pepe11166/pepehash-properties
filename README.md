@@ -55,4 +55,6 @@
 ---
 
 > 🐸 Powered by memes. Sustained by miners. Backed by code.
+>
+> [![pepehash-sha256.png](https://i.postimg.cc/13nKNr3n/pepehash-sha256.png)](https://postimg.cc/CR083DDS)
 
